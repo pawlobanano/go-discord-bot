@@ -7,18 +7,19 @@ The number becomes a starting limit.
 Then each turn a player has to write !roll.  
 The rolled number becomes a new limit.  
 Game ends whenever a player rolls number 1.  
-*It depends on the agreement whether it means win o lose.
+*It depends on the agreement whether it means win or lose.
 
 #### How to play
-1. !letsroll <number>.
-2. Choose a second player.
-    1. Other than Player1.
-    2. Only one from the list.
+1. !letsroll <number>
+2. Choose a second player
+    1. Other than Player1
+    2. Only one from the list
 3. Take turns and write !roll
-4. Rolled 1 = the end of the game.
+4. If number 1 has been rolled, it means the end of the game
 
 #### Game keywords
 ```
+!letsroll
 !letsroll help  
 !lr help  
 !letsroll active  

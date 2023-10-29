@@ -10,7 +10,7 @@ Game ends whenever a player rolls number 1.
 *It depends on the agreement whether it means win or lose.
 
 #### How to play
-1. !letsroll <number>
+1. !letsroll ```text <number>```
 2. Choose a second player
     1. Other than Player1
     2. Only one from the list
@@ -19,7 +19,7 @@ Game ends whenever a player rolls number 1.
 
 #### Game keywords
 ```
-!letsroll
+!letsroll <number>
 !letsroll help  
 !lr help  
 !letsroll active  
